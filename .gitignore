@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# System Files
+**/.DS_Store
+
+# extra files
+data/apparel/
+data/beauty/
+data/movie/
+data/videogames/
+
 # Distribution / packaging
 .Python
 build/

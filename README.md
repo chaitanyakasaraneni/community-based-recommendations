@@ -1,7 +1,7 @@
 # Community-based Product Recommender System
 
 ### Introduction
-This repository contains sample code for community-based product recommender system
+This repository contains sample code for community-based product recommender system. This is a slight implementation of the paper referred below
 
 ### Datasets Used
 - [Amazon Customer Reviews Dataset](https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
@@ -25,3 +25,6 @@ This repository contains sample code for community-based product recommender sys
     review_body       - The review text.
     review_date       - The date the review was written.
   ```
+
+### Reference Paper
+- https://ieeexplore.ieee.org/document/9030822
